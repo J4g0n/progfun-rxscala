@@ -1,2 +1,2 @@
 # progfun-rxscala
-exercices on functional reactive programming (Rx chapter
+exercices on functional reactive programming (Rx chapter)
